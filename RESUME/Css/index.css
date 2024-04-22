@@ -1,0 +1,62 @@
+.top{
+    font-family: fantasy;
+    text-align: center;
+    letter-spacing: 25px;
+    word-break: break-all;
+    padding-top: 15px;
+    
+}
+.top h1{
+    font-size: 70px;
+    color: gray;
+}
+.line2 h4{
+    color: rgb(96, 95, 95);
+
+}
+
+.line2 p{
+    color: rgb(96, 95, 95);
+
+}
+.line2{
+    
+    text-align: center;
+    justify-content: space-between;
+    font-size: medium;
+    padding-top: 10px;
+}
+.icon-top{
+    font-size: 13px;
+    display: flex;
+    font-family: serif;
+    justify-content: center;
+    padding-right: 25px;
+    
+
+}
+.break-top p{
+    display: flex;
+    justify-content: center;
+    
+}
+.line3{
+    width: fit-content;
+    margin: auto;
+    padding: 5px 120px 0px 130px;
+    
+}
+.line3 h3{
+    font-family: fantasy;
+    color:grey;
+    letter-spacing: 1px;
+    font-size: 30px;
+   
+}
+.line3 p{
+    color: rgb(96, 95, 95);
+
+}
+.line3 h4{
+    color: rgb(96, 95, 95);
+}
